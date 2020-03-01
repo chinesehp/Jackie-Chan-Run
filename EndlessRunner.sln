@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndlessRunner", "EndlessRunner\EndlessRunner\EndlessRunner.csproj", "{2D8C8A34-C0CF-49B0-8AA5-ECDA4F9CFCF0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "EndlessRunnerContent", "EndlessRunner\EndlessRunnerContent\EndlessRunnerContent.contentproj", "{96C2BDEE-9788-4A83-890B-7023E4D2EF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D8C8A34-C0CF-49B0-8AA5-ECDA4F9CFCF0}.Debug|x86.ActiveCfg = Debug|x86
+		{2D8C8A34-C0CF-49B0-8AA5-ECDA4F9CFCF0}.Debug|x86.Build.0 = Debug|x86
+		{2D8C8A34-C0CF-49B0-8AA5-ECDA4F9CFCF0}.Release|x86.ActiveCfg = Release|x86
+		{2D8C8A34-C0CF-49B0-8AA5-ECDA4F9CFCF0}.Release|x86.Build.0 = Release|x86
+		{96C2BDEE-9788-4A83-890B-7023E4D2EF94}.Debug|x86.ActiveCfg = Debug|x86
+		{96C2BDEE-9788-4A83-890B-7023E4D2EF94}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
